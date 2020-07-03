@@ -17,3 +17,4 @@
 |1475|[ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Python3](./solutions/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py)|44 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python3](./solutions/1480.%20Running%20Sum%20of%201d%20Array.py)|44 ms|
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.py)|28 ms|
+|1492|[ The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)|[Python3](./solutions/1492.%20The%20kth%20Factor%20of%20n.py)|52 ms|
