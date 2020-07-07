@@ -21,3 +21,4 @@
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python3](./solutions/1480.%20Running%20Sum%20of%201d%20Array.py)|44 ms|
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python3](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.py)|28 ms|
 |1492|[ The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)|[Python3](./solutions/1492.%20The%20kth%20Factor%20of%20n.py)|52 ms|
+|1502|[ Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|[Python3](./solutions/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py)|64 ms|
